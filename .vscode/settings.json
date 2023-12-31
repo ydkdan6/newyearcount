@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.wait": 10,
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.CustomBrowser": "chrome"
+}
